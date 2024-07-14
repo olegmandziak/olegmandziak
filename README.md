@@ -12,7 +12,6 @@ Oleg is a JavaScript Developer, Speaker, and Teacher with a passion for teaching
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### Skills
 <p align="left">
