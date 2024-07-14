@@ -28,3 +28,5 @@ Oleg is a JavaScript Developer, Speaker, and Teacher with a passion for teaching
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Contact Me
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sifulsmm@gmail.com)](mailto:olegmandziak4@gmail.com)
