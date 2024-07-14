@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleh Mandziak
 =====================================================================================================================================
 
-Developer. Speaker. Teacher.
+Full Stack Developer. Speaker. Teacher.
 ----------------------------
 
 Oleg is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
