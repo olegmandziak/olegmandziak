@@ -8,7 +8,7 @@ Oleg is a JavaScript Developer, Speaker, and Teacher with a passion for teaching
 
 * 🌍  I'm based in Ukraine
 * 🧠  I'm learning everything JavaScript
-* 🏡 [My website](https://jamesqquick.com/)
+* 🏡 [My website](https://oleg-mandziak.netlify.app/)
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
